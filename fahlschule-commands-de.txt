@@ -1,0 +1,131 @@
+1
+Angabe während der Prüfungsfahrt
+Links
+Rechts
+Nächste Straße (links/rechts)
+Halb links/rechts abbiegen
+Erste, zweite. dritte Straße rechts (Kreisverkehr)
+Erste. zweite. dritte Ausfahrt nehmen
+Der Vorfahrtsstraße folgen
+
+1
+In Richtung...fahren
+Wenn nichts gesagt wird, geht es geradeaus
+Richtung Autobahn/Kraftfahrstraße
+
+2
+Manöverangaben
+Anhalten
+Rückwärts fahren (links/rechts)
+Vorwärts fahren (links/rechts)
+Einparken längs/quer (vorwärts/rückwärts)
+Umkehren
+Hinter dem Fahrzeug einparken
+Zwischen Fahrzeugen einparken
+Gefahrbremsung/Abbremsen mit höchstmöglicher Verzögerung
+
+3
+Sicherheitskontrolle
+Funktion prüfen von
+Ein- und Ausschalten von
+Zeigen von
+Standlicht
+Abblendlicht
+Fernlicht
+Schlussleuchten mit Kennzeichenbeleuchtung
+Nebelschlussleuchte
+Warnblinkanlage
+Blinker
+Hupe
+Bremsleuchte
+Kontrollleuchten benennen
+Rückstrahler
+Vorhandensein
+Beschädigung
+Lenkung
+
+3
+Lenkschloss entriegeln
+Bremsanlage
+Betriebsbremse (Fußbremse)
+Feststellbremse
+Flüssigkeitsstände prüfen
+Motoröl
+Kühlmittel
+Scheibenwaschflüssigkeit
+Reifen kontrollieren
+Beschädigungen
+Profiltiefe
+Reifendruck
+
+4
+Fahrzeugbegriffe
+Sicherheitsgurt
+Lenkrad
+Kupplung
+Bremse
+Handbremse
+Schalthebel
+Gang/Gänge
+Scheibenwischer
+Lichtschalter
+Heizung
+Gebläse
+Motorhaube öffnen
+Räder kontrollieren
+Fenster öffnen/schließen
+Spigel (einstellen)
+Außenspiegel (einstellen)
+Heckscheibenheizung einschalten
+
+5
+Fahrtechnischer Abschluss
+Sicherung/Sichern gegen
+Wegrollen
+Unbefugte Benutzung
+Umschau/Umsicht beim Aussteigen
+
+6
+Abschluss der Prüfung
+Prüfung bestanden
+Prüfung nicht bestanden
+Erhebliches Fehlverhalten
+Häufung oder Wiederholung von Fehlern
+Grundfahraufgabe wiederholt fehlerhaft
+Gefährdung
+Zu langsam
+Zu schnell
+Unsicher
+Fehlende Verkehrsbeobachtung bei.
+Fehlende oder ungenügende Spiegelbeobachtung
+
+6
+Fehlendes vorausschauendes Fahren
+Zu wenig Abstand beim Vorbeifahren/Überholen von
+Motorradfahrer
+Radfahrer
+Fußgänger
+Pkw
+Lkw
+Straßenbahn
+Vorfahrt/Vorrang nicht beachtet bei
+Rechts vor links
+Vorfahrt gewähren
+STOP-Schild
+Ampel ROT
+Ampel GELB
+Ampel GRÜN
+Rechtsabbiegepfeil
+Kreisverkehr
+
+6
+Vorrang Fußgänger
+Nichtbeachten von Verkehrszeichen
+Zu schnell an Bus vorbeigefahren
+Verkehrsverbot
+Verbot der Einfahrt
+Überholverbot
+Fehler bei Wechsel des Fahrstreifens
+Fehlende Reaktion bei Kindern, Hilfsbedürftigen und älteren Menschen
+Behinderung (vermeidbar)
+Belästigung (vermeidbar)
